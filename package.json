@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dmytro888/webpack-training"
+    "url": "git+https://github.com/Dmytro888/goit-js-hw-10"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dmytro888/webpack-trainingnpm"
+    "url": "https://github.com/Dmytro888/goit-js-hw-10"
   },
-  "homepage": "https://dmytro888.github.io/webpack-training/",
+  "homepage": "https://dmytro888.github.io/goit-js-hw-10/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
